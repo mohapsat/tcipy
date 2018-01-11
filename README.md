@@ -1,2 +1,3 @@
 # tcipy
-travis ci and python
+
+Playground for travis ci , pytest, allure in python
